@@ -57,13 +57,12 @@ My name is [**Ravi Sharma**](https://www.linkedin.com/in/ravi-sharma-740674117/)
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" **alt="Qt" width="40" height="40"/>
 </div>
 
-## ⚡ GitHub statistics
+## ⚡ GitHub Statistics
 
-<div align=center>
-  <img align=center width="60%" src="https://github-readme-stats.vercel.app/api?username=rakrsh&count_private=true&show_icons=true&theme=react&border_color=61dafb&hide_border=true"/>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=rakrsh&count_private=true&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Stats" />
   <br/>
-  <img align=center width="60%" src="https://streak-stats.demolab.com/?user=rakrsh&count_private=true&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="zumrudu-anka"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakrsh&count_private=true&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <br/>
-  <img align=center src="https://github-readme-activity-graph.vercel.app/graph?username=rakrsh&count_private=true&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakrsh&count_private=true&theme=react-dark&bg_color=20232a&hide_border=true" alt="Activity Graph" />
+</p>
