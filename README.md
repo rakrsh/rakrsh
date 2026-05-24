@@ -94,16 +94,16 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td align="center" valign="top" width="50%">
-      <img src="https://github-stats-extended.vercel.app/api?username=rakrsh&count_private=true&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Stats" height="195px" />
+      <img src="https://github-stats-extended.vercel.app/api?username=rakrsh&count_private=true&show_icons=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="GitHub Stats" height="195px" />
     </td>
     <td align="center" valign="top" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakrsh&count_private=true&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Streak" height="195px" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakrsh&count_private=true&show_icons=true&fire=58a6ff&ring=58a6ff&text=c9d1d9&currStreakNum=58a6ff&sideLabels=c9d1d9&background=0d1117&hide_border=true" alt="GitHub Streak" height="195px" />
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2" valign="top">
       <br/>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakrsh&count_private=true&theme=react-dark&bg_color=20232a&hide_border=true" alt="Activity Graph" width="100%" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakrsh&count_private=true&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" alt="Activity Graph" width="100%" />
     </td>
   </tr>
 </table>
