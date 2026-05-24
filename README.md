@@ -94,10 +94,10 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td align="center" valign="top" width="50%">
-      <img src="https://github-stats-extended.vercel.app/api?username=rakrsh&count_private=true&show_icons=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="GitHub Stats" height="195px" />
+      <img src="https://github-stats-extended.vercel.app/api?username=rakrsh&count_private=true&show_icons=true&title_color=58a6ff&icon_color=ffffff&text_color=ffffff&bg_color=0d1117&hide_border=true&hide=rank" alt="GitHub Stats" height="195px" />
     </td>
     <td align="center" valign="top" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakrsh&count_private=true&show_icons=true&fire=58a6ff&ring=58a6ff&text=c9d1d9&currStreakNum=58a6ff&sideLabels=c9d1d9&background=0d1117&hide_border=true" alt="GitHub Streak" height="195px" />
+      <img src="https://streak-stats.demolab.com?user=rakrsh&count_private=true&show_icons=true&fire=58a6ff&ring=58a6ff&text=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&background=0d1117&hide_border=true" alt="GitHub Streak" height="195px" />
     </td>
   </tr>
   <tr>
