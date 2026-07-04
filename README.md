@@ -37,6 +37,12 @@
 
 ---
 
+## :astronaut: My resume
+
+* You can also access my personal web portfolio, in the following GH page! :arrow_right: [Ravi Sharma's portfolio](https://rakrsh.github.io/)
+
+---
+
 ## 🛠️ Technical Ecosystem
 
 <table>
